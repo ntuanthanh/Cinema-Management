@@ -15,7 +15,7 @@
 ![2](https://user-images.githubusercontent.com/99120557/177987817-a38759fd-44e8-43f0-8808-d1e31746e8f1.JPG)
 ## 3. Home bookings(can see details, delete)
 ![3](https://user-images.githubusercontent.com/99120557/177987962-30002145-4e33-4917-8de6-91908ce0dc01.JPG)
-## 4. add new bookings
+## 4. Add new bookings
 ![4](https://user-images.githubusercontent.com/99120557/177988045-d7219e30-8178-4a69-b425-cd4c6ee274bc.JPG)
 
  
